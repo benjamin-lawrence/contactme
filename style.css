@@ -1,0 +1,32 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.content {
+    text-align: center; 
+    border: 1px solid #000000;
+    margin: 250px auto 0 auto;
+    width: 275px;
+    
+}
+p {
+    font-size: 40px;
+    font-family: "Sansita Swashed", Arial, sans-serif;
+    padding-bottom: 10px;
+}
+.fist {
+    padding: 1px 0;
+    margin: 0 5px;
+}
+.last {
+    padding: 1px 0;
+    margin: 0 5px;
+}
+.email {
+    padding: 1px 0;
+    margin: 0 5px;
+}
+form:last-child {
+    padding-bottom: 10px;
+}
